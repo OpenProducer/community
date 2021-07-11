@@ -6,13 +6,14 @@
 - Build and run hands-on training to create community media using industry-accepted open source technologies.
 - Connect individuals and organizations with similar goals and interests to collectively support and fund open projects and programs.
 
-## Projects
-We contribute towards the following open source projects:
+## Projects and initiatives
+We currently contribute towards the following open source projects and initiatives:
 - [AzuraCast](https://www.azuracast.com/) is a self-hosted, all-in-one web radio management suite.
+- [Kendraio](https://www.kendra.io/) is a nonprofit interoperability advocacy initiative whose mission is to empower individuals through the benefits that come from increased interoperability and a culture of data-sharing. 
 - [LibreTime](https://libretime.org/) is open broadcast software for scheduling and remote station management.
-- [Radio Station](https://wordpress.org/plugins/radio-station/) is a plugin to build and manage a Show Schedule for a radio station or internet broadcaster’s WordPress website.
-- [OpenProducer](https://www.openproducer.org/projects/openproducer-platform/) is a platform that enables and empowers musicians, media makers, broadcasters, publishers, and others who produce.
 - [Newspack](https://newspack.pub/) is an open-source publishing platform built on WordPress for small to medium sized news organizations. 
+- [OpenProducer Platform](https://www.openproducer.org/projects/openproducer-platform/) is an open set of tools that enable and empower media makers, broadcasters, publishers, and others who produce.
+- [Radio Station](https://netmix.com/radio-station/) is a plugin to build and manage a Show Schedule for a radio station or internet broadcaster’s website.
 
 ## What we need
 - Contributors ranging from project manager, content editor, developer, designer, to multimedia production, event coordinator, business development, and fundraiser. 
