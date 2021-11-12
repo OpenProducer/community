@@ -12,7 +12,6 @@ We currently contribute towards the following open source projects and initiativ
 - [Kendraio](https://www.kendra.io/) is a nonprofit interoperability advocacy initiative whose mission is to empower individuals through the benefits that come from increased interoperability and a culture of data-sharing. 
 - [LibreTime](https://libretime.org/) is open broadcast software for scheduling and remote station management.
 - [Newspack](https://newspack.pub/) is an open-source publishing platform built on WordPress for small to medium sized news organizations. 
-- [OpenProducer Platform](https://www.openproducer.org/projects/openproducer-platform/) is an open set of tools that enable and empower media makers, broadcasters, publishers, and others who produce.
 - [Radio Station](https://netmix.com/radio-station/) is a plugin to build and manage a Show Schedule for a radio station or internet broadcaster’s website.
 
 ## What we need
